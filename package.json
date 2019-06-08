@@ -1,0 +1,8 @@
+{
+  "name": "pdkhome",
+  "version": "0.0.1",
+  "description": "PocketsDK Website",
+  "main": "index.js",
+  "author": "Krisztina Pap",
+  "license": "MIT"
+}
