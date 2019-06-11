@@ -7,5 +7,11 @@
     "type": "git",
     "url": "https://github.com/KrisztinaPap/pdkhome.git"
   },
-  "author": "Krisztina Pap"
+  "author": "Krisztina Pap",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.2"
+  }
 }
